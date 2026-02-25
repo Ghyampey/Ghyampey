@@ -49,17 +49,17 @@ Full-stack developer building scalable MERN stack applications, blockchain platf
 - ML models for early disease prediction and real-time health monitoring  
 - Integrated telemedicine sessions, Stripe payments, and Twilio notifications  
 - HIPAA/GDPR-aligned scalable architecture  
-**[Repo](https://github.com/Ghyampey/blockchain-healthcare-system)** | *(Add live link if available)*
+**[Repo](https://github.com/Ghyampey/blockchain-healthcare-system)** | 
 
 ### 2️⃣ Simply ART – Full-Stack MERN Application
 - Full-stack web app with secure authentication, protected routes, and RESTful APIs  
 - Deployed on Linux server with Nginx; managed environment variables and production workflow  
-**[Repo](https://github.com/Ghyampey/simply-art)** | *(Add live link if available)*
+**[Repo](https://github.com/Ghyampey/simply-art)** | 
 
 ### 3️⃣ Building Tenant System – MERN Application
 - Multi-role tenant-admin system with CRUD operations and role-based access control  
 - Modular backend architecture for scalability and maintainability  
-**[Repo](https://github.com/Ghyampey/building-tenant-system)** | *(Add live link if available)*
+**[Repo](https://github.com/Ghyampey/building-tenant-system)** | 
 
 ---
 
