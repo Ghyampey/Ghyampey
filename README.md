@@ -6,6 +6,8 @@ Based in Kathmandu, Nepal — Remote-Ready (Global Time Zones)
 
 [Email](mailto:sojoktosushant@gmail.com) • [LinkedIn](https://linkedin.com/in/sushant-gautam-3a5088293) • [GitHub](https://github.com/Ghyampey)
 
+[Portfolio](https://ghyampey.github.io/Portfolio/index.html)
+
 ---
 
 ## 🚀 About Me
