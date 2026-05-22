@@ -74,7 +74,7 @@ Full-stack developer building scalable MERN stack applications, blockchain platf
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](github-readme-stats-nine-woad-13.vercel.app/api?username=Ghyampey&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-nine-woad-13.vercel.app/api?username=Ghyampey&show_icons=true&theme=radical)
 
 ---
 
